@@ -22,4 +22,4 @@ export class Task {
     done: boolean;
 }
 
-export const TaskSchema = SchemaFactory.createForClass(Task)
+export const TaskSchema = SchemaFactory.createForClass(Task);
